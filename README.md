@@ -55,16 +55,6 @@ Para detenerlo, presioná `Ctrl + C` en la terminal.
 - `categoria`: opcional, texto.
 - El `id` lo genera el servidor.
 
-## Ejemplo de uso
-
-Crear un producto:
-
-```bash
-curl -X POST http://localhost:3000/api/productos \
-  -H "Content-Type: application/json" \
-  -d '{"nombre": "Submarino", "precio": 2500, "categoria": "bebida"}'
-```
-
 ## Pruebas
 
 El archivo `pruebas.http` contiene las peticiones para probar todas las rutas con la extensión REST Client de VS Code. 
