@@ -11,8 +11,8 @@ API REST hecha con Node.js y Express para consultar y administrar los productos 
 ## Instalación
 
 ```bash
-git clone <https://github.com/RV-Monkey/xdd-testing.git>
-cd <API>
+git clone <https://github.com/RV-Monkey/Cafeteria.git>
+cd <Cafeteria CRUI>
 npm install
 ```
 
